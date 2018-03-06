@@ -1,4 +1,5 @@
-# Game of Life in JS
+# Workshop from Fullstack Code of Academy
 
-Fullstack Academy workshop.
+### Game of Life in JS
+
 
